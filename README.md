@@ -1,5 +1,5 @@
 # chemical-uncertainties
-Repository for code relating to paper entitled "Reducing greenhouse gas emissions uncertainties for chemical production" output from the [C-THRU project](https://www.c-thru.org/).\
+Repository for code relating to paper entitled "Reducing greenhouse gas emissions uncertainties for chemical production" output from the [C-THRU project](https://www.c-thru.org/).
 
 Pipeline: data_extraction -> data_processing -> data_combination -> analysis
 
